@@ -342,5 +342,5 @@ def action():
 ###################################################################################################################################################
 
 if __name__ == '__main__':
-	#os.system('xdg-open www.instagram.com/yy_hama_yy')
+	#os.system('xdg-open https://www.instagram.com/yy_hama_yy/')
 	menu()
