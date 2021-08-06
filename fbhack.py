@@ -91,7 +91,7 @@ def menu():
     print logo
     print '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
     print ' TOOL BY     :,YY HAMA YY, ATTACK BOY '
-    print ' My Telegram     : @ofl0l'
+    print ' My INSTAGRAM     : yy_hama_yy'
     print '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
     print '\x1b[31;1m 1\x1b[0;1m - iraq \033[93mmedium \x1b[1;97m( \x1b[34mAll internet \x1b[0;1m,\x1b[33;1m TP-Link\x1b[0;1m )'
     print '\x1b[31;1m 2 \x1b[0;1m- iraq \033[32mSpeed \x1b[1;97m( \x1b[34mkorek\x1b[0;1m ,\x1b[33;1m TP-Link \x1b[0;1m)'
