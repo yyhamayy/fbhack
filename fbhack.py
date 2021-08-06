@@ -315,13 +315,7 @@ def action():
                                         	   print '\x1b[1;92m[SUCCESSFULL]  ' + k + c + user + '  \x1b[1;92m|  ' + pass9
                                         	   okb = open('anggaxd/clone.txt', 'a')
                                         	   okb.write(k + c + user + pass9 + '\n')
-                                        
-                elif 'www.facebook.com' in q['error_msg']:
-                                            print '\x1b[1;97m[CHECKPOINT] \x1b[1;97m' + k + c + user + '  \x1b[1;97m|  ' + pass9
-                                            cps = open('anggaxd/clone.txt', 'a')
-                                            cps.write(k + c + user + pass9 + '\n')
-                                            cps.close()
-                                            cpb.append(c + user + pass9)
+)
                                         	 
         except:
             pass
