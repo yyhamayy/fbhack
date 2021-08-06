@@ -315,7 +315,6 @@ def action():
                                         	   print '\x1b[1;92m[SUCCESSFULL]  ' + k + c + user + '  \x1b[1;92m|  ' + pass9
                                         	   okb = open('anggaxd/clone.txt', 'a')
                                         	   okb.write(k + c + user + pass9 + '\n')
-)
                                         	 
         except:
             pass
